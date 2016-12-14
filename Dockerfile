@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Rishabh Joshi <rishabh@xola.com>
+MAINTAINER Rishabh Joshi <rishabh9@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV ACTIVATOR_VERSION 1.3.12
